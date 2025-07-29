@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(131, 86, 255);
+    color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+h1{
+    color: #0077cc;
+    border-bottom: 2px solid #0077cc;
+    padding-bottom: 10px;
+}
+
+ul, ol{
+    padding-left: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 10ph 5px;
+    border: none;
+    background-color: #0077cc;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
